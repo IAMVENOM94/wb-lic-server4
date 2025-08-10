@@ -1,0 +1,14 @@
+{
+  "name": "wb-lic-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "pg": "^8.11.5",
+    "uuid": "^9.0.1"
+  }
+}
